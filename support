@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Bread — Soporte / Support</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #2B2A28; background: #FAF7F0; }
+  h1 { font-size: 1.6em; }
+  h2 { font-size: 1.2em; margin-top: 2em; border-bottom: 1px solid #E4DCC8; padding-bottom: 4px; }
+  a { color: #3B4A6B; }
+  .lang-switch { text-align: center; margin-bottom: 2em; }
+  .lang-switch a { margin: 0 8px; text-decoration: none; font-weight: 600; }
+  hr { border: none; border-top: 2px solid #E4DCC8; margin: 3em 0; }
+  footer { font-size: 0.85em; color: #6B6560; margin-top: 3em; text-align: center; }
+  .contact-box { background: #F1EAD9; border: 1px solid #E4DCC8; border-radius: 12px; padding: 20px; margin: 1.5em 0; }
+</style>
+</head>
+<body>
+
+<div class="lang-switch">
+  <a href="#es">Español</a> | <a href="#en">English</a>
+</div>
+
+<h1 id="es">Soporte — Daily Bread</h1>
+
+<div class="contact-box">
+  <strong>¿Necesitas ayuda?</strong><br>
+  Escríbenos a <a href="mailto:the365partner@gmail.com">the365partner@gmail.com</a> y te responderemos lo antes posible.
+</div>
+
+<h2>Preguntas frecuentes</h2>
+
+<p><strong>¿Cómo cambio el idioma o el tema (claro/oscuro)?</strong><br>
+Ve a la pestaña "Ajustes" dentro de la app — ahí puedes cambiar el idioma (español/inglés) y la apariencia (claro, oscuro o automático según tu dispositivo) en cualquier momento.</p>
+
+<p><strong>¿Cómo activo o cambio el recordatorio diario?</strong><br>
+En "Ajustes" → "Recordatorio diario", activa el interruptor y elige la hora que prefieras. Puedes desactivarlo cuando quieras.</p>
+
+<p><strong>¿Cómo funciona la Colección y el desbloqueo por enlace?</strong><br>
+Cada versículo que ves se añade automáticamente a tu Colección. Si un amigo te comparte un versículo y ya tienes la app instalada, al abrir su enlace ese versículo se desbloquea también en tu propia colección.</p>
+
+<p><strong>¿Perderé mis datos si desinstalo la app?</strong><br>
+Todos tus datos (favoritos, colección, racha, ajustes) se guardan solo en tu dispositivo. Desinstalar la app los elimina, salvo que tu sistema operativo tenga copias de seguridad automáticas activadas.</p>
+
+<p><strong>¿Por qué veo anuncios?</strong><br>
+Daily Bread es gratuita. Los anuncios (un banner discreto y, como mucho, uno de pantalla completa al día) son lo que nos permite mantener la app y seguir mejorándola sin cobrar suscripción.</p>
+
+<p><strong>He encontrado un error / la app se cierra / algo no funciona</strong><br>
+Escríbenos a <a href="mailto:the365partner@gmail.com">the365partner@gmail.com</a> contándonos qué pasó, en qué pantalla, y qué modelo de teléfono usas — nos ayuda mucho a solucionarlo rápido.</p>
+
+<h2>Política de privacidad</h2>
+<p>Puedes consultarla aquí: <a href="https://garfield185.github.io/daily-bread-privacy/">https://garfield185.github.io/daily-bread-privacy/</a></p>
+
+<hr>
+
+<h1 id="en">Support — Daily Bread</h1>
+
+<div class="contact-box">
+  <strong>Need help?</strong><br>
+  Email us at <a href="mailto:the365partner@gmail.com">the365partner@gmail.com</a> and we'll get back to you as soon as possible.
+</div>
+
+<h2>Frequently asked questions</h2>
+
+<p><strong>How do I change the language or theme (light/dark)?</strong><br>
+Go to the "Settings" tab in the app — you can change the language (Spanish/English) and appearance (light, dark, or automatic based on your device) at any time.</p>
+
+<p><strong>How do I turn on or change the daily reminder?</strong><br>
+In "Settings" → "Daily reminder", turn on the switch and pick the time you prefer. You can turn it off whenever you want.</p>
+
+<p><strong>How does the Collection and link-unlock feature work?</strong><br>
+Every verse you see is automatically added to your Collection. If a friend shares a verse with you and you already have the app installed, opening their link also unlocks that verse in your own collection.</p>
+
+<p><strong>Will I lose my data if I uninstall the app?</strong><br>
+All your data (favorites, collection, streak, settings) is stored only on your device. Uninstalling the app removes it, unless your operating system's automatic backups are enabled.</p>
+
+<p><strong>Why do I see ads?</strong><br>
+Daily Bread is free. The ads (a small banner, and at most one full-screen ad per day) are what let us keep the app running and keep improving it without charging a subscription.</p>
+
+<p><strong>I found a bug / the app crashes / something isn't working</strong><br>
+Email us at <a href="mailto:the365partner@gmail.com">the365partner@gmail.com</a> and tell us what happened, on which screen, and what phone model you're using — it helps us fix it quickly.</p>
+
+<h2>Privacy Policy</h2>
+<p>You can find it here: <a href="https://garfield185.github.io/daily-bread-privacy/">https://garfield185.github.io/daily-bread-privacy/</a></p>
+
+<footer>Daily Bread</footer>
+
+</body>
+</html>
